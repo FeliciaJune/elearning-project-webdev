@@ -3,7 +3,8 @@
 Responsive **eLearning Website** project for the **Web Development** course.  
 This website is built using **HTML**, **CSS**, along with **Bootstrap** and **FontAwesome** libraries, designed to provide a modern, interactive, and user-friendly learning experience.  
 
-**Disclaimer**: This website layout is optimized for **desktop view**. Some elements may not be fully responsive on mobile devices.
+## Disclaimer
+This website layout is optimized for **desktop view**. Some elements may not be fully responsive on mobile devices.
 
 ## Demo
 Website link: https://feliciajune.github.io/elearning-project-webdev/
