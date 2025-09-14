@@ -29,7 +29,7 @@ The repository contains the following main files and folders:
 - **Home Page** – Landing page with main navigation  
 - **About Us** – Information about the eLearning platform  
 - **Courses** – List of available courses
-- **Team** – Instructor or developer profiles   
+- **Team** – Instructor profiles   
 - **Testimonials** – User feedback and reviews  
 - **404 Page** – Custom error page
 - **Contact** – Contact form page 
